@@ -1,18 +1,18 @@
 # Burrow-Wheeler transform
 
-# Input :
+* Input :
   - string
   - end of file character
   
-# Output :
+* Output :
   - transformed string
   
   
 # Burrow-Wheeler inverse transform
 
-# Input :
+* Input :
   - transformed string
   - end of file character
   
-# Output :
+* Output :
   - original string
