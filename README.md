@@ -7,7 +7,7 @@
 * Output :
   - transformed string
   
-  
+#  
 # Burrow-Wheeler inverse transform
 
 * Input :
